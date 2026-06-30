@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "dentista-app",
+  title: "Dentista App",
   description: "Portal de ferramentas da clínica Sorriso & Cia",
 };
 
